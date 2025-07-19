@@ -16,6 +16,7 @@ amharic-ner-telegram/
 │   ├── fetch_telegram_data.py   # Scrape → CSV
 │   └── preprocess_text.py       # Normalise + tokenise text
 ├── .env.example              # Template for your API secrets
+├── .gitignore                # Keeps secrets & large files out of Git
 ├── requirements.txt          # Project dependencies
 └── README.md                 # (you are here)
 ```
