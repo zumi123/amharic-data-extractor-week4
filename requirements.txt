@@ -1,4 +1,0 @@
-telethon
-pandas
-amharicNLP
-python-dotenv
